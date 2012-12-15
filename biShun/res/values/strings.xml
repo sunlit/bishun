@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">笔画顺序</string>
+    <string name="menu_settings">随意写的小程序，疏漏之处请多包涵</string>
+    <string name="title_activity_main">笔画顺序</string>
+
+</resources>
